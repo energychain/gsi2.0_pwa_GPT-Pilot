@@ -1,5 +1,5 @@
 __This is an unmodified repository to show the results of a PoC using  [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) to create the base line of a new consumer App using the GreenPowerIndex.
-The API costs were arround 65$ to generate the results in aprox. 10 itterations. The implementation to this step saved aprox 6 days of development. We stopped the initial implementation at this stage to create a MVP with some tweaking out of it.__
+The API costs were arround 65$ to generate the results in aprox. 10 iterations. The implementation to this step saved aprox 6 days of development. We stopped the initial implementation at this stage to create a [MVP](https://github.com/energychain/gsi2.0_pwa) with some tweaking out of it.__
 
 # GrünstromIndex 2.0 PWA (GPT-Pilot implementation)
 
